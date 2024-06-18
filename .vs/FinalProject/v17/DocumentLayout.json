@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|d:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\mvc\\project(v2)\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|d:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\mvc\\project(v2)\\finalproject\\finalproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|d:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\mvc\\project(v2)\\finalproject\\finalproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\shared\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\shared\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\wwwroot\\css one\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\wwwroot\\css one\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\finalproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9466E-CA81-40DE-8E25-AAD6B5D52736}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:42:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowE0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:38:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Customer\\Register.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Customer\\Register.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Customer\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:26:24.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T22:21:53.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "FinalProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:32:27.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:28:47.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "FinalProject\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "FinalProject\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-19T22:07:21.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:02:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:26:51.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\wwwroot\\css one\\site.css",
+              "RelativeDocumentMoniker": "FinalProject\\wwwroot\\css one\\site.css",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\wwwroot\\css one\\site.css",
+              "RelativeToolTip": "FinalProject\\wwwroot\\css one\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T14:02:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Shared\\Search.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Shared\\Search.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Shared\\Search.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Shared\\Search.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T19:40:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:43:00.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cart.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Models\\cart.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\cart.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Models\\cart.cs",
+              "RelativeToolTip": "FinalProject\\Models\\cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:32:56.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwCkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:35:44.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T21:33:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T21:33:36.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Product.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Models\\Product.cs",
+              "RelativeToolTip": "FinalProject\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:57:39.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\ProductDto.cs",
+              "ToolTip": "D:\\college\\\u062A\u0627\u0644\u062A\u0629 \u062A\u0631\u0645 \u062A\u0627\u0646\u0649\\MVC\\Project(V2)\\FinalProject\\FinalProject\\Models\\ProductDto.cs",
+              "RelativeToolTip": "FinalProject\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:57:42.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
